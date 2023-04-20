@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import Todo from "./components/TodoList/Todo";
 import TodoList from "./components/TodoList/TodoList";
-// import UseEffect from "./components/Hooks/UseEffect";
 // import UseReducer from "./components/Hooks/UseReducer";
 // import Component1 from "./components/Component1";
 // import UseRef from "./components/Hooks/UseRef";
